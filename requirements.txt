@@ -1,0 +1,6 @@
+streamlit
+pymongo
+nltk
+transformers
+sentence-transformers
+numpy
