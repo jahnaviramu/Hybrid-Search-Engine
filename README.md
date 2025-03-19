@@ -1,4 +1,4 @@
-HYBRID SEARCH ENGINE – README FILE  
+HYBRID SEARCH ENGINE 
 
 DESCRIPTION  
 The Hybrid Search Engine is an AI-powered application that combines keyword-based search with semantic search for accurate and relevant results. It uses MongoDB for database management, sentence-transformers for semantic similarity, and Streamlit for the web interface. This hybrid approach enhances the search accuracy by ranking results based on both text matching and contextual relevance.  
